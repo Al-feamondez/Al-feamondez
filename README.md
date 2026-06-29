@@ -1,4 +1,6 @@
-Hi there 👋, I'm Wongo Favour
+# Hi 👋, I'm Wongo Favour
+
+### Aspiring Software Engineer | Computer Science Student | Open to Remote Opportunities
 
 💻 Aspiring Software Engineer
 
